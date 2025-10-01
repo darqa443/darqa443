@@ -1,7 +1,4 @@
-# Pentest-Portfolio
-Hi! My name is Daria and I'm preparing for a career as a penetration tester. In this repository, you will find:
-- **[Write-ups](./Writeups)** - CTFs and lab solutions.
-
-
+# Portfolio
+I’m a junior penetration tester with a PNPT certificate, currently completing the Google Cybersecurity program and preparing for CompTIA Security+. I publish detailed write-ups and reports from TryHackMe and HackTheBox boxes to demonstrate hands-on skills and methodology.”
 
 Thank you for visiting my portfolio!
